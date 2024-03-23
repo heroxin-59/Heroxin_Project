@@ -1,0 +1,14 @@
+3.30 创建 bdu_system 数据库
+     创建 student 表
+     搭建环境
+     实现所有学生查询  student-list
+     实现新增学生信息  student-add
+     实现删除学生信息
+     实现查询一条学生信息 student-search
+     实现更改学生信息  student-update
+
+3.31 创建 user 表
+     实现用户登录/注册页面
+
+4.2  实现 student-list-page 的分页查询功能
+     添加 intercepter 拦截器 拦截未登录用户
